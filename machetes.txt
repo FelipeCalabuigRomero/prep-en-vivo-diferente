@@ -1,0 +1,14 @@
+! con eso se arranca un html
+subir una linea con alt y flechitas
+<link rel="shortcut icon" href="favicon.ico" type="image/x-icon"> para la pequeña fotito de arriba
+
+para poner varias etiquetas a la vez, ej: div*3
+
+
+
+main
+   section
+         article
+         article
+    section
+main         
